@@ -28,3 +28,6 @@ This command generates static content into the `build` directory and can be serv
 
 This course is deployed via GitHub Actions to GitHub Pages under the `DataFabric-Academy` organization.
 
+## License
+
+Copyright © DataFabric Academy. Built with Knowledge Fabric System.
