@@ -69,7 +69,7 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'DataFabric Academy',
+      title: 'Data Fabric Academy',
       logo: {
         alt: 'Knowledge Fabric Logo',
         src: 'img/logo.svg',
@@ -112,7 +112,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} DataFabric Academy. Built with Knowledge Fabric System.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Data Fabric Academy. Built with Knowledge Fabric System.`,
     },
     prism: {
       theme: prismThemes.github,
