@@ -117,7 +117,8 @@ const config: Config = {
     prism: {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,
-      additionalLanguages: ['dax', 'm', 'powershell', 'sql', 'bash', 'json'], // เพิ่มภาษาที่ใช้บ่อยใน Power BI Stack (DAX, M, PowerShell)
+      additionalLanguages: ['powershell', 'sql', 'bash', 'json'], // เพิ่มภาษาที่ใช้บ่อยใน Power BI Stack (PowerShell, SQL)
+      // หมายเหตุ: DAX และ M language ใช้ 'text' หรือ 'javascript' สำหรับ syntax highlighting
     },
   } satisfies Preset.ThemeConfig,
 };
